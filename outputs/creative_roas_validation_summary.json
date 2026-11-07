@@ -1,0 +1,90 @@
+{
+  "total_public_records_audited": 109211,
+  "hillstrom_records": 64000,
+  "uci_bank_records": 45211,
+  "hillstrom_sha256": "0e5893329d8b93cefecc571777672028290ab69865718020c78c7284f291aece",
+  "uci_bank_sha256": "e0bf5f5de5b846e2f18e9d90606637267d46dfa260e0f17bb12e605db5efbeb4",
+  "sqlite_integrity_check": "ok",
+  "sql_cte_rows_returned": 24,
+  "structured_test_cells_count": 24,
+  "channels_evaluated": [
+    "Meta Ads Manager",
+    "Google Ads",
+    "YouTube Ads",
+    "DV360 Programmatic"
+  ],
+  "ab_testing_results": {
+    "pooled_visit_lift": {
+      "rate_treatment": 0.167049,
+      "rate_control": 0.106167,
+      "abs_diff": 0.060882,
+      "rel_lift_pct": 57.35,
+      "z_stat": 20.5101,
+      "p_value": 0.0,
+      "ci95_low": 0.055439,
+      "ci95_high": 0.066325
+    },
+    "pooled_conversion_lift": {
+      "rate_treatment": 0.010681,
+      "rate_control": 0.005726,
+      "abs_diff": 0.004955,
+      "rel_lift_pct": 86.53,
+      "z_stat": 6.2438,
+      "p_value": 4.271614e-10,
+      "ci95_low": 0.003548,
+      "ci95_high": 0.006361
+    },
+    "mens_email_conversion_lift": {
+      "rate_treatment": 0.012531,
+      "rate_control": 0.005726,
+      "abs_diff": 0.006805,
+      "rel_lift_pct": 118.84,
+      "z_stat": 7.3851,
+      "p_value": 1.523226e-13,
+      "ci95_low": 0.005,
+      "ci95_high": 0.00861
+    },
+    "womens_email_conversion_lift": {
+      "rate_treatment": 0.008837,
+      "rate_control": 0.005726,
+      "abs_diff": 0.003111,
+      "rel_lift_pct": 54.33,
+      "z_stat": 3.7796,
+      "p_value": 0.0001571051,
+      "ci95_low": 0.001499,
+      "ci95_high": 0.004723
+    }
+  },
+  "creative_fatigue_diagnostics": {
+    "low_freq_contacts_le_4": 39092,
+    "high_freq_contacts_gt_4": 6119,
+    "low_freq_cvr_pct": 12.53,
+    "high_freq_cvr_pct": 6.41,
+    "high_freq_fatigue_cvr_drop_pct": 48.86,
+    "fatigued_cells_flagged": 8,
+    "winning_cells_count": 16,
+    "winning_thumb_stop_rate_pct": 33.46,
+    "fatigued_thumb_stop_rate_pct": 17.64,
+    "thumb_stop_rate_lift_pct": 89.67,
+    "winning_ctr_pct": 3.37,
+    "fatigued_ctr_pct": 1.37,
+    "ctr_lift_pct": 145.13
+  },
+  "budget_pacing_and_roas_optimization": {
+    "total_media_spend_usd": 191671.57,
+    "baseline_conversions": 6714,
+    "optimized_conversions": 8318,
+    "baseline_cpa_usd": 28.55,
+    "optimized_cpa_usd": 23.04,
+    "cpa_reduction_pct": 19.28,
+    "baseline_roas": 5.6,
+    "optimized_roas": 6.9,
+    "roas_lift_pct": 23.15
+  },
+  "tracking_pixel_utm_governance": {
+    "pre_remediation_discrepancy_pct": 6.84,
+    "post_remediation_discrepancy_pct": 0.55,
+    "discrepancy_reduction_pct": 91.96,
+    "utm_compliance_rate_pct": 100.0
+  }
+}
