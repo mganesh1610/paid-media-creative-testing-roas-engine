@@ -1,0 +1,75 @@
+{
+  "total_verified_records": 109211,
+  "sha256_hashes": {
+    "hillstrom.csv": "0e5893329d8b93cefecc571777672028290ab69865718020c78c7284f291aece",
+    "bank_marketing.zip": "e0bf5f5de5b846e2f18e9d90606637267d46dfa260e0f17bb12e605db5efbeb4"
+  },
+  "cohorts_evaluated": 15,
+  "funnel_totals": {
+    "samples_dispatched": 109211,
+    "creator_videos_posted": 93990,
+    "sample_to_post_rate_pct": 86.06,
+    "high_velocity_videos": 60799,
+    "live_shopping_sessions": 28279,
+    "settled_orders": 5867,
+    "total_settled_gmv_usd": 385852.38,
+    "total_gmv_max_spend_usd": 82278.04,
+    "blended_gmv_max_roas": 4.69
+  },
+  "top_client_recommendations": [
+    {
+      "cpg_category": "CPG_Home_Essentials",
+      "channel": "Social_Live_Stream",
+      "settled_gmv_usd": 87117.22,
+      "gmv_max_roas": 5.73,
+      "vs_category_benchmark_pct": 5.72,
+      "vs_platform_overall_pct": 22.17,
+      "recommended_action": "Scale GMV Max Paid Amplification (+25% budget) & prioritize top-decile affiliate sample replenishment"
+    },
+    {
+      "cpg_category": "CPG_Health_Supplements",
+      "channel": "Social_Live_Stream",
+      "settled_gmv_usd": 86024.1,
+      "gmv_max_roas": 5.73,
+      "vs_category_benchmark_pct": 7.5,
+      "vs_platform_overall_pct": 22.17,
+      "recommended_action": "Scale GMV Max Paid Amplification (+25% budget) & prioritize top-decile affiliate sample replenishment"
+    },
+    {
+      "cpg_category": "CPG_Pantry_Snacks",
+      "channel": "Social_Live_Stream",
+      "settled_gmv_usd": 85633.44,
+      "gmv_max_roas": 5.72,
+      "vs_category_benchmark_pct": 5.93,
+      "vs_platform_overall_pct": 21.96,
+      "recommended_action": "Scale GMV Max Paid Amplification (+25% budget) & prioritize top-decile affiliate sample replenishment"
+    },
+    {
+      "cpg_category": "CPG_Home_Essentials",
+      "channel": "Affiliate_Creator_Feed",
+      "settled_gmv_usd": 21068.12,
+      "gmv_max_roas": 5.1,
+      "vs_category_benchmark_pct": -5.9,
+      "vs_platform_overall_pct": 8.74,
+      "recommended_action": "Audit creator sample seeding eligibility & refresh short-form video hook scripts"
+    },
+    {
+      "cpg_category": "CPG_Pantry_Snacks",
+      "channel": "Affiliate_Creator_Feed",
+      "settled_gmv_usd": 20821.79,
+      "gmv_max_roas": 5.09,
+      "vs_category_benchmark_pct": -5.74,
+      "vs_platform_overall_pct": 8.53,
+      "recommended_action": "Audit creator sample seeding eligibility & refresh short-form video hook scripts"
+    },
+    {
+      "cpg_category": "CPG_Health_Supplements",
+      "channel": "Affiliate_Creator_Feed",
+      "settled_gmv_usd": 17929.58,
+      "gmv_max_roas": 4.93,
+      "vs_category_benchmark_pct": -7.5,
+      "vs_platform_overall_pct": 5.12,
+      "recommended_action": "Audit creator sample seeding eligibility & refresh short-form video hook scripts"
+    }
+  ]
+}

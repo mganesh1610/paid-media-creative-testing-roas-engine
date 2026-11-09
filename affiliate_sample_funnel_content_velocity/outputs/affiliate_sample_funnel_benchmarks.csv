@@ -1,0 +1,16 @@
+cpg_category,channel,samples_dispatched,creator_videos_posted,high_velocity_videos,live_shopping_sessions,settled_orders,sample_to_post_rate_pct,content_velocity_rate_pct,live_shopping_cvr_pct,total_settled_gmv,total_gmv_max_spend,gmv_max_roas,category_benchmark_roas,platform_overall_roas,roas_vs_category_pct,roas_vs_platform_pct
+CPG_Home_Essentials,Social_Live_Stream,9743,8529,6204,4422,1460,87.54,72.74,33.02,87117.22,15197.77,5.73,5.42,4.69,5.72,22.17
+CPG_Health_Supplements,Social_Live_Stream,9760,8473,6176,4383,1458,86.81,72.89,33.26,86024.1,15025.76,5.73,5.33,4.69,7.5,22.17
+CPG_Pantry_Snacks,Social_Live_Stream,9782,8501,6271,4446,1451,86.9,73.77,32.64,85633.44,14967.66,5.72,5.4,4.69,5.93,21.96
+CPG_Home_Essentials,Affiliate_Creator_Feed,5327,4532,3157,1877,327,85.08,69.66,17.42,21068.12,4130.9,5.1,5.42,4.69,-5.9,8.74
+CPG_Pantry_Snacks,Affiliate_Creator_Feed,5289,4525,3203,1931,316,85.55,70.78,16.36,20821.79,4087.38,5.09,5.4,4.69,-5.74,8.53
+CPG_Health_Supplements,Affiliate_Creator_Feed,5310,4532,3127,1826,277,85.35,69.0,15.17,17929.58,3633.75,4.93,5.33,4.69,-7.5,5.12
+CPG_Beauty_Skincare,Web,12971,11027,5658,2061,130,85.01,51.31,6.31,13910.71,5162.01,2.69,2.49,4.69,8.03,-42.64
+CPG_Personal_Care_Grooming,Web,12982,10995,5445,1851,99,84.69,49.52,5.35,12982.45,5003.62,2.59,2.71,4.69,-4.43,-44.78
+CPG_Personal_Care_Grooming,Phone,12919,10930,5203,1394,93,84.6,47.6,6.67,12397.92,4886.61,2.54,2.71,4.69,-6.27,-45.84
+CPG_Beauty_Skincare,Phone,12912,10975,5384,1643,89,85.0,49.06,5.42,9280.09,4324.78,2.15,2.49,4.69,-13.65,-54.16
+CPG_Wellness_Beverage,Multichannel,1994,1815,1815,496,35,91.02,100.0,7.06,4126.36,1148.26,3.59,3.45,4.69,4.06,-23.45
+CPG_Wellness_Beverage,Web,2264,2043,2043,586,34,90.24,100.0,5.8,4016.32,1184.55,3.39,3.45,4.69,-1.74,-27.72
+CPG_Personal_Care_Grooming,Multichannel,2917,2612,2612,399,30,89.54,100.0,7.52,3864.34,1293.19,2.99,2.71,4.69,10.33,-36.25
+CPG_Wellness_Beverage,Phone,2190,1971,1971,526,35,90.0,100.0,6.65,3790.05,1128.29,3.36,3.45,4.69,-2.61,-28.36
+CPG_Beauty_Skincare,Multichannel,2851,2530,2530,438,33,88.74,100.0,7.53,2889.89,1103.51,2.62,2.49,4.69,5.22,-44.14
