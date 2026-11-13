@@ -1,0 +1,22 @@
+{
+  "combined_records": 109211,
+  "monthly_channel_cohorts": 18,
+  "total_settled_orders": 5867,
+  "total_platform_orders": 5872,
+  "reconciled_tracking_discrepancy_pct": 0.085,
+  "total_settled_revenue_usd": 1468843.13,
+  "total_media_spend_usd": 204119.4,
+  "blended_roas": 7.2,
+  "gates_passed": 8,
+  "gates_total": 8,
+  "gates": {
+    "gate_01_hillstrom_64000": true,
+    "gate_02_bank_45211": true,
+    "gate_03_combined_109211": true,
+    "gate_04_18_monthly_channel_cohorts": true,
+    "gate_05_six_distinct_channels": true,
+    "gate_06_ga4_adobe_discrepancy_under_1pct": true,
+    "gate_07_positive_blended_roas": true,
+    "gate_08_sqlite_integrity_ok": true
+  }
+}
