@@ -1,0 +1,21 @@
+{
+  "total_verified_records": 64176,
+  "instagram_creator_drafts": 176,
+  "randomized_experiment_assignments": 64000,
+  "approved_post_revision_posts": 100,
+  "needs_revision_posts": 76,
+  "explore_share_approved_pct": 66.34,
+  "explore_share_unrevised_pct": 59.93,
+  "explore_share_rel_lift_pct": 10.69,
+  "profile_to_follow_approved_pct": 67.72,
+  "profile_to_follow_unrevised_pct": 48.85,
+  "profile_to_follow_rel_lift_pct": 38.61,
+  "impression_to_follow_rel_lift_pct": 69.54,
+  "impression_to_follow_z_stat": 30.01,
+  "randomized_ab_visit_lift_pct": 57.35,
+  "randomized_ab_visit_z": 20.51,
+  "randomized_ab_conversion_lift_pct": 86.53,
+  "randomized_ab_conversion_z": 6.24,
+  "sqlite_integrity_check": "ok",
+  "qa_gates_passed": 8
+}
